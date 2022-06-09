@@ -1,2 +1,3 @@
-# web3
-Web3
+# standalone js samples to interface with ethereum, and other block-chains etc
+
+
