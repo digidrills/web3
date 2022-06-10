@@ -10,9 +10,9 @@
 <li>It provides faster transactions and lower costs for users as it uses POS consensus.</li>
 <li>It acts as a speedy parallel blockchain running alongside the main Ethereum blockchain.</li>
 <li>Its currency is MATIC and is an ERC-20 token. </li>
-<li>It aims to improve upon Ethereum as a blockchain development network.</li>
+<li>It aims to improve upon Ethereum as a blockchain development network.</li><br>
 
-<img src="https://github.com/digidrills/web3-samples/tree/main/docs/figures/polygon.png" width="400px" height="250px" />
+<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/polygon.png" width="400px" height="250px" /><br>
 
 #### Ethereum vs Polygon
         
