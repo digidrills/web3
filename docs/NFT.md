@@ -9,9 +9,9 @@
 <li>NFTs also get exclusive ownership rights, i.e. NFTs can have only one owner at a time.</li> 
 <li>NFTs’ unique data makes it easy to verify their ownership and transfer tokens between owners.</li> 
 <li>The owner or creator can also store specific information inside them.</li> 
-<li>They are bought and sold online, frequently with cryptocurrency.</li> 
+<li>They are bought and sold online, frequently with cryptocurrency.</li> <br><br>
 
-<center><img src="https://github.com/digidrills/web3-samples/tree/main/docs/figures/nft.png" width="400px" height="250px"><center/>
+<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/polygon.png" width="400px" height="250px"><center/> <br><br>
 
 #### Tokens vs NFTs
 
