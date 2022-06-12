@@ -12,7 +12,11 @@
 <li>Transactions - all the transactions in the block
 <li>Nonce - a random number required for miners to generate a hash starting with a certain number of zeros at the beginning (which is mining)
 
+---
+
 ### Note : Time required to mine(create) a block is generally around 12 to 14 seconds for ethereum blockchain
+
+---
 
 ## Why a nonce?
 
@@ -24,11 +28,11 @@ The difficulty level corresponds to the number of zeros, required at the beginni
 ## References
 
 ---
-<li><a href="https://ethereum.org/en/developers/docs/blocks/" target="_blank">https://ethereum.org/en/developers/docs/blocks/</a>
-<li><a href="https://www.youtube.com/watch?v=_160oMzblY8" target="_blank">https://www.youtube.com/watch?v=_160oMzblY8</a>
+<li>Official Documentation : <a href="https://ethereum.org/en/developers/docs/blocks/" target="_blank">https://ethereum.org/en/developers/docs/blocks/</a>
+<li>Understanding the block : <a href="https://www.youtube.com/watch?v=_160oMzblY8" target="_blank">https://www.youtube.com/watch?v=_160oMzblY8</a>
 
 
 ## Resources
 
 ---
-<li><a href="https://ethereum.org/en/developers/docs/blocks/" target="_blank">https://ethereum.org/en/developers/docs/blocks/</a>
+<li>Visualization of block : <a href="https://andersbrownworth.com/blockchain/block" target="_blank">https://andersbrownworth.com/blockchain/block</a>
