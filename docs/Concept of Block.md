@@ -29,7 +29,7 @@ The difficulty level corresponds to the number of zeros, required at the beginni
 
 ---
 <li>Official Documentation : <a href="https://ethereum.org/en/developers/docs/blocks/" target="_blank">https://ethereum.org/en/developers/docs/blocks/</a>
-<li>Understanding the block : <a href="https://www.youtube.com/watch?v=_160oMzblY8" target="_blank">https://www.youtube.com/watch?v=_160oMzblY8</a>
+<li>Understanding the block : <a href="https://www.youtube.com/watch?v=_160oMzblY8" target="_blank">https://www.youtube.com/watch?v=_160oMzblY8</a>
 
 
 ## Resources
