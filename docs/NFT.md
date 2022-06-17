@@ -11,7 +11,7 @@
 <li>The owner or creator can also store specific information inside them.</li> 
 <li>They are bought and sold online, frequently with cryptocurrency.</li> <br><br>
 
-<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/polygon.png" width="400px" height="250px"><center/> <br><br>
+<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/nft.png" width="400px" height="250px"><center/> <br><br>
 
 #### Tokens vs NFTs
 
