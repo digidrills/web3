@@ -18,5 +18,5 @@ https://legitdoc.com/
 <li> Verification Portal compares LegitDoc PDF file data with the data on the blockchain</li>
 <li> Verifiers are notified of the authenticity of the document</li>
 <br><br>
-<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/legit_doc1" width="600px" height="750px"><center/> <br><br>
-<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/legit_doc2" width="600px" height="750px"><center/> <br><br>
+<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/legit_doc1.png" width="600px" height="750px"><center/> <br><br>
+<center><img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/legit_doc2.png" width="600px" height="750px"><center/> <br><br>
