@@ -18,7 +18,7 @@ contract NFTContract is ERC721URIStorage {
         returns (uint256)
     {
         uint256 newItemId = _tokenIds.current();
-        _mint user_address, newItemId);
+        _mint(user_address, newItemId);
         // creating a JSON object with 4 fields name,latitude,longitude and url
         bytes memory dataURI = abi.encodePacked(
             '{',
