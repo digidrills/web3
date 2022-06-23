@@ -23,18 +23,32 @@
 
 <li>ENS domain will only be created if there are two transactions from the wallet to verify the user.
 <img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens2.png" width="850px" height="350px"><br><br>
-<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens3.png" width="850px" height="350px"><br><br>
 
 ## Terminologies
 <li>Controller: The account that may edit the records of a name. The Controller may be changed by the Registrant or Controller.
 <li>Namehash: The algorithm used to process an ENS name and return a cryptographic hash uniquely identifying that name.
 <li>Registrar: A registrar is a contract responsible for allocating subdomains. Registrars can be configured at any level of ENS, and are pointed to by the owner field of the registry.
 <li>Resolver: A resolver is a contract that maps from name to the resource (e.g., cryptocurrency addresses, content hash, etc). Similar to how a nameserver works in web domains.
+  
+## How to integrate ENS to our Dapp :
+ENS support is available in many popular languages.
+  <li>Ether.js
+  <li>Web3.js <br>
+Can be integrated using the following languages
+<li>Java - web3j
+<li>Kotlin - KEthereum
+<li>Python - web3.py
+<li>Go - go-ens
+<li>Delphi - delphereum
+
 
 ## Transfers from metamask using ENS
 
 <img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens4.png" width="400px" height="350px"><br><br>
 
+## Inferencing from Trust Wallet 
+  <img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens3.png" width="850px" height="350px"><br><br>
+  
 ## References
 <li>ENS visualized in Opensea as an NFT https://testnets.opensea.io/0x635b6de4b6b3d01ef90daef31e112298700b8a57?referrer=%2Faccount&tab=activity
 <li>https://medium.com/rippleventures/ens-vs-dns-c05ba7116263  (ENS & DNS)
