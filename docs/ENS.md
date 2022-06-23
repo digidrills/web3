@@ -17,9 +17,13 @@
 
 ## Steps to create a ENS 
 
+<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens1.png" width="850px" height="350px"><br><br>
 <li>Search the name for your ENS.
 <li>Follow the three steps on the ENS website to create an ENS domain. https://app.ens.domains/name/
+
 <li>ENS domain will only be created if there are two transactions from the wallet to verify the user.
+<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens2.png" width="850px" height="350px"><br><br>
+<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens3.png" width="850px" height="350px"><br><br>
 
 ## Terminologies
 <li>Controller: The account that may edit the records of a name. The Controller may be changed by the Registrant or Controller.
@@ -27,6 +31,9 @@
 <li>Registrar: A registrar is a contract responsible for allocating subdomains. Registrars can be configured at any level of ENS, and are pointed to by the owner field of the registry.
 <li>Resolver: A resolver is a contract that maps from name to the resource (e.g., cryptocurrency addresses, content hash, etc). Similar to how a nameserver works in web domains.
 
+## Transfers from metamask using ENS
+
+<img src="https://github.com/digidrills/web3-samples/blob/main/docs/figures/ens4.png" width="400px" height="350px"><br><br>
 
 ## References
 <li>ENS visualized in Opensea as an NFT https://testnets.opensea.io/0x635b6de4b6b3d01ef90daef31e112298700b8a57?referrer=%2Faccount&tab=activity
