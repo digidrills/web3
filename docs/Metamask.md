@@ -6,3 +6,7 @@
             https://youtu.be/YVgfHZMFFFQ
   ## Install Metamask from here 
             https://metamask.io/download/
+  ## Add testnets and mainnets not present in your metamask wallet
+           https://chainlist.org/
+  
+           https://rpc.info/
