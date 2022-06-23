@@ -7,7 +7,12 @@
 <li>A user sends a transaction request which is sent to the entire ethereum network.
 <li>Each node in the network adds these transactions into a memory pool.
 <li>Memory pool consists of those valid transactions which are not yet assigned to a block.
-<li>A mining node then combines several of these transactions into a block such that<ul><li>Transaction fee is maximum</li><li>Total gas in the block does not exceed the gas limit.</li></ul>
+<li>A mining node then combines several of these transactions into a block such that
+        <ul>
+                <li>Transaction fee is maximum</li>
+                <li>Total gas in the block does not exceed the gas limit.
+                </li>
+        </ul>
 <li>Miner then validates each of those transactions and executes the code of the  request.
 <li>A “proof of work” certificate is produced by the miner once all the transactions in a block are verified and executed.
 <li>Miner then broadcasts the block to all the nodes in the network.
