@@ -1,5 +1,9 @@
 ### Trust Wallet
 
+#### Why Trust Wallet?
+
+<li>ENS had options of adding addresses of wallets belonging to other chains to receive funds such as Bitcoin, Stellar Lumens, Ripple etc and each of these needed an individual wallet app to generate public addresses to receive funds as metamask doesn't support these chains. Here,Trust wallet becomes a all in one app which provides support to wallets of other blockchains. </li>
+
 #### Introduction
 
 <li>Trust Wallet is a mobile app based web3 wallet similar to metamask.</li>
