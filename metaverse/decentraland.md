@@ -30,3 +30,9 @@
     <li> Users need to register to DAO and stake some of their tokens to obtain voting rights
 </ul>
 
+## References
+<ul>
+    <li>Official Documentation : <a href="https://docs.decentraland.org/" target="_blank">https://docs.decentraland.org/</a>
+    <li>Decentraland SDK for development: <a href="https://docs.decentraland.org/development-guide/SDK-101/" target="_blank">https://docs.decentraland.org/development-guide/SDK-101/</a>
+    <li>Additional Articles: <a href="https://cointelegraph.com/metaverse-for-beginners/a-beginners-guide-to-buying-virtual-real-estate-in-decentraland-mana" target="_blank">https://cointelegraph.com/metaverse-for-beginners/a-beginners-guide-to-buying-virtual-real-estate-in-decentraland-mana</a>
+</ul>
