@@ -32,7 +32,7 @@
 <li>It allows users to rent, stake, host, and form districts.
   
 ### ASSETS :
-<li>It is an ERC115 token for authenticity.
+<li>It is an ERC1155 token for authenticity.
 <li>These tokens are unique, non-divisible, and limited.
   
 ### CATALYST :
