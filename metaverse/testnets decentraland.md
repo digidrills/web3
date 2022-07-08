@@ -3,7 +3,7 @@
 <li> The official decentraland documentation gives us a tutorial on how to use testnets on decentraland 
   
 ##  Steps stated and progress
-<li> Obtaining Testnet Ethereum on Ropsten testnet. (Status: Done)  (Official link is done, alternative used https://faucet.egorfine.com/ )
+<li> Obtaining Testnet Ethereum on Ropsten testnet. (Status: Done)  (Official link given is down, alternative used https://faucet.egorfine.com/ )
 <li> Obtaining Testnet MANA token on Ropsten testnet. (Status: Done) (https://faucet.decentraland.today/)
 <li> Added Polygon Testnet as a network on Metamask (Status: Done) (using https://chainlist.org/)
 <li> (Work in Progress) Finding how to access the testnet.
