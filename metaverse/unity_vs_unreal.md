@@ -23,13 +23,13 @@
         <td>Extending the blueprint nodes requires key C++ library knowledge</td>
     </tr>
     <tr>
-        <td>Difficult</td>
-        <td>Unity is more user friendly</td>
+        <td>Difficulty</td>
+        <td>Unity is more beginner friendly</td>
         <td>Unreal engine is suitable for intermediate/experienced developers</td>
     </tr>
     <tr>
         <td>Target Platforms</td>
-        <td>It supports all the platforms that Unreal does but it also supports web publishing</td>
+        <td>It supports all the platforms that Unreal does but it also supports web publishing(i.e browser based)</td>
         <td>Unreal engine does not support web publishing</td>
     </tr>
     <tr>
@@ -39,11 +39,11 @@
     </tr>
     <tr>
         <td>Recommended Specifications</td>
-        <td>Ryzen 5 5600X(AMD) or Core i5-11600K(intel), 16GB RAM,RTX 3060 or an AMD RX 6600 Graphics card</td>
-        <td>Ryzen 5 5600X(AMD) or Intel Core i5-12600K, 16GB RAM, NVIDIA RTX 3060 or AMD RX 6600 Graphics card</td>
+        <td>Ryzen 5 5600X(AMD) or Core i5-11600K(intel) CPU, 16GB RAM,RTX 3060 or an AMD RX 6600 Graphics card</td>
+        <td>Ryzen 5 5600X(AMD) or Intel Core i5-12600K CPU, 16GB RAM, NVIDIA RTX 3060 or AMD RX 6600 Graphics card</td>
     </tr>
     <tr>
-        <td>Popular VR platforms</td>
+        <td>Popular VR platforms developed </td>
         <td>VR Chat, Beat Saber</td>
         <td>Vader Immortal, Creed Rise to Glory</td>
     </tr>
