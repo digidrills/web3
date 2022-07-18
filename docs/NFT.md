@@ -38,7 +38,7 @@
 <li>Opensea  is a decentralised, peer-to-peer exchange platform that enables users to transact with one another directly in a trustless manner.
 <li>It allows users to create individual NFT or NFT collections, set fees on their tokens, and create auctions to sell them.
 <li>Transactions on OpenSea are atomic transactions, i.e. either happen as a whole (the buyer gets the NFT and the seller gets paid) or not at all. 
-<li>The steps involved in buying and selling of NFTs using openSea are mention here - https://support.opensea.io/hc/en-us/articles/5183126109715-How-can-I-transfer-an-NFT-using-OpenSea-
+<li>The steps involved in buying and selling of NFTs using openSea are mentioned here - https://support.opensea.io/hc/en-us/articles/5183126109715-How-can-I-transfer-an-NFT-using-OpenSea-
 
 
 
